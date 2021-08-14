@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Raleway-Thin';
+  src: local('Raleway-Thin'), url(./fonts/Raleway-Thin.ttf) format('truetype');
+}
+
+.App-header {
+  background-color: #61dafb;
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: Raleway-Thin, serif;
+  letter-spacing: 0.15em;
+  font-size: calc(5px + 2vmin);
+  color: black;
+}
+
+
+.home-button {
+  padding-right: 283px;
+  justify-content: left;
+}
+
+.nav-button {
+  /* padding-left: 50px; */
+  padding-left: 10.5%;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: right; */
+}
