@@ -1,32 +1,35 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0a62f497.chunk.css",
-    "main.js": "/portfolio/static/js/main.42a85140.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.42a85140.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8bbd561c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8bbd561c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
-    "static/js/2.e048f780.chunk.js": "/portfolio/static/js/2.e048f780.chunk.js",
-    "static/js/2.e048f780.chunk.js.map": "/portfolio/static/js/2.e048f780.chunk.js.map",
+    "static/js/2.2506f2ef.chunk.js": "/portfolio/static/js/2.2506f2ef.chunk.js",
+    "static/js/2.2506f2ef.chunk.js.map": "/portfolio/static/js/2.2506f2ef.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/main.0a62f497.chunk.css.map": "/portfolio/static/css/main.0a62f497.chunk.css.map",
-    "static/js/2.e048f780.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e048f780.chunk.js.LICENSE.txt",
+    "static/js/2.2506f2ef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2506f2ef.chunk.js.LICENSE.txt",
     "static/media/DTE.e68a784b.png": "/portfolio/static/media/DTE.e68a784b.png",
-    "static/media/L3.57e88a27.png": "/portfolio/static/media/L3.57e88a27.png",
+    "static/media/DiveLog.09a4861c.png": "/portfolio/static/media/DiveLog.09a4861c.png",
     "static/media/App.css": "/portfolio/static/media/Raleway-Thin.537e4a26.ttf",
     "static/media/amazon.17bac416.png": "/portfolio/static/media/amazon.17bac416.png",
     "static/media/designer.f1d8c60b.svg": "/portfolio/static/media/designer.f1d8c60b.svg",
     "static/media/developer.f481b8d5.svg": "/portfolio/static/media/developer.f481b8d5.svg",
     "static/media/epic.734701a6.png": "/portfolio/static/media/epic.734701a6.png",
-    "static/media/hi.423eeaec.png": "/portfolio/static/media/hi.423eeaec.png",
+    "static/media/headshot.9bc40f23.png": "/portfolio/static/media/headshot.9bc40f23.png",
     "static/media/instagram.0963b7a5.png": "/portfolio/static/media/instagram.0963b7a5.png",
+    "static/media/manager.5cc574b0.svg": "/portfolio/static/media/manager.5cc574b0.svg",
     "static/media/minesweeper.01d54c6b.png": "/portfolio/static/media/minesweeper.01d54c6b.png",
+    "static/media/sorting.f1941ec1.png": "/portfolio/static/media/sorting.f1941ec1.png",
     "static/media/student.55b81650.svg": "/portfolio/static/media/student.55b81650.svg",
-    "static/media/temp.51f01a8a.jpeg": "/portfolio/static/media/temp.51f01a8a.jpeg"
+    "static/media/suturingVR.423eeaec.png": "/portfolio/static/media/suturingVR.423eeaec.png",
+    "static/media/website.bc90d457.png": "/portfolio/static/media/website.bc90d457.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
-    "static/js/2.e048f780.chunk.js",
+    "static/js/2.2506f2ef.chunk.js",
     "static/css/main.0a62f497.chunk.css",
-    "static/js/main.42a85140.chunk.js"
+    "static/js/main.8bbd561c.chunk.js"
   ]
 }
