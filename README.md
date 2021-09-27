@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-Check out my skills and experience here: [emilyjonesr.github.io/portfolio/](emilyjonesr.github.io/portfolio/)
+Check out my skills and experience here: [https://emilyjonesr.github.io/portfolio/](https://emilyjonesr.github.io/portfolio/)
